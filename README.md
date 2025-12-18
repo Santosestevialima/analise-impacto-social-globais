@@ -20,7 +20,7 @@ Criar uma análise visual e estatística da vulnerabilidade socioeconômica no B
 - Funções automatizadas (plot, modelagem, etc.)
 
 ---
-##Autora
+## Autora
 
 Esteve Santos Lima
 Estudante de Engenharia de Software, Gestão Financeira e Investigação Forense.
@@ -28,7 +28,7 @@ Apaixonada por dados, impacto social e inovação.
 
 ⸻
 
-##Licença
+## Licença
 
 Este projeto está licenciado sob a Licença MIT.
 Você pode usar, modificar e distribuir à vontade. Compartilhar é multiplicar.
