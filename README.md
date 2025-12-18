@@ -20,5 +20,14 @@ Criar uma análise visual e estatística da vulnerabilidade socioeconômica no B
 - Funções automatizadas (plot, modelagem, etc.)
 
 ---
+## ⚖️ Licença
 
-## Estrutura do projeto
+Este projeto está sob licença MIT. Fique à vontade para usar, modificar e contribuir.
+
+---
+
+## 🚀 Rodando o projeto localmente
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/Santosteveialima/analise-impacto-social-global
