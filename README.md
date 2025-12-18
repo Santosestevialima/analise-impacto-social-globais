@@ -75,7 +75,7 @@ Sinta-se livre para:
 
 ⸻
 
-🚀 Como Rodar o Projeto Localmente
+Como Rodar o Projeto Localmente
 	1.	Clone este repositório:
 
 git clone https://github.com/Santostestevialima/analise-impacto-social-globais.git
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 ⸻
 
-🔍 Fontes de Dados
+Fontes de Dados
 	•	IBGE
 	•	DATASUS
 	•	INEP
