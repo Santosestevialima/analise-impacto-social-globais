@@ -53,7 +53,7 @@ Este projeto está sob licença MIT. Fique à vontade para usar, modificar e con
 ## 🚀 Rodando o projeto localmente
 
 1. Clone o repositório:
-```bash
+'''bash
 git clone https://github.com/Santosteveialima/analise-impacto-social-globais.git
 
 
