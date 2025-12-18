@@ -20,11 +20,33 @@ Criar uma análise visual e estatística da vulnerabilidade socioeconômica no B
 - Funções automatizadas (plot, modelagem, etc.)
 
 ---
-## ⚖️ Licença
+##Autora
 
-Este projeto está sob licença MIT. Fique à vontade para usar, modificar e contribuir.
+Esteve Santos Lima
+Estudante de Engenharia de Software, Gestão Financeira e Investigação Forense.
+Apaixonada por dados, impacto social e inovação.
 
-# 🧩 Estrutura do Projeto
+⸻
+
+##Licença
+
+Este projeto está licenciado sob a Licença MIT.
+Você pode usar, modificar e distribuir à vontade. Compartilhar é multiplicar.
+
+⸻
+
+## Quer contribuir?
+
+Sinta-se livre para:
+	•	Fazer um fork
+	•	Melhorar os gráficos
+	•	Sugerir novos modelos
+	•	Traduzir para outros idiomas
+
+⸻
+
+
+#  Estrutura do Projeto
 
 ```bash
 .
@@ -49,7 +71,7 @@ Este projeto está sob licença MIT. Fique à vontade para usar, modificar e con
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-´´´bash
+
 
 ⸻
 
