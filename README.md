@@ -24,7 +24,7 @@ Criar uma análise visual e estatística da vulnerabilidade socioeconômica no B
 
 Este projeto está sob licença MIT. Fique à vontade para usar, modificar e contribuir.
 
----
+# 🧩 Estrutura do Projeto
 
 ```bash
 .
@@ -50,34 +50,60 @@ Este projeto está sob licença MIT. Fique à vontade para usar, modificar e con
 ├── README.md
 └── requirements.txt
 
-## 🚀 Rodando o projeto localmente
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/Santosteveialima/analise-impacto-social-globais.git
+⸻
 
+🚀 Como Rodar o Projeto Localmente
+	1.	Clone este repositório:
 
-2. Acesse a pasta do projeto:
-```bash
-cd analise-impacto-social-globai
+git clone https://github.com/Santostestevialima/analise-impacto-social-globais.git
 
-3.instale as dependências:
-```bash
+	2.	Acesse a pasta do projeto:
+
+cd analise-impacto-social-globais
+
+	3.	Instale as dependências:
+
 pip install -r requirements.txt
 
-4.Execute os notebooks na pasta notebooks ou scripts em src/
+	4.	Execute os notebooks na pasta notebooks ou scripts em src/
 
-##Fonte de Dados
--IBGE
--DATASUS
--INEP
--OUTROS BANCOS PÚblicos ACESSIVEIS
+⸻
 
-##AUTORA
-Estevia Santos lima
-Estudante de Engenharia de Software , Gestão Financeira e investigação Forense. Apaixonada por dados , impacto social e inovação
-## licença
-este projeto está licenciado sob a licença MIT
-você pode usar, modificar e distribuir à vontade. compartilhar é multiplicar.
+🔍 Fontes de Dados
+	•	IBGE
+	•	DATASUS
+	•	INEP
+	•	Outros bancos públicos acessíveis
+
+⸻
+
+##Autora
+
+Esteve Santos Lima
+Estudante de Engenharia de Software, Gestão Financeira e Investigação Forense.
+Apaixonada por dados, impacto social e inovação.
+
+⸻
+
+##Licença
+
+Este projeto está licenciado sob a Licença MIT.
+Você pode usar, modificar e distribuir à vontade. Compartilhar é multiplicar.
+
+⸻
+
+## Quer contribuir?
+
+Sinta-se livre para:
+	•	Fazer um fork
+	•	Melhorar os gráficos
+	•	Sugerir novos modelos
+	•	Traduzir para outros idiomas
+
+⸻
+
+
+---
 
 
