@@ -49,7 +49,7 @@ Este projeto está sob licença MIT. Fique à vontade para usar, modificar e con
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
+´´´bash
 
 ⸻
 
