@@ -53,15 +53,15 @@ Este projeto está sob licença MIT. Fique à vontade para usar, modificar e con
 ## 🚀 Rodando o projeto localmente
 
 1. Clone o repositório:
-'''bash
+```bash
 git clone https://github.com/Santosteveialima/analise-impacto-social-globais.git
 
 
 2. Acesse a pasta do projeto:
-´´bash
+```bash
 cd analise-impacto-social-globais
 
 3.instale as dependências:
-´´´bash
+```bash
 pip install -r requirements.txt
 4.Execute os notebooks na pasta notebooks ou scripts em src/
