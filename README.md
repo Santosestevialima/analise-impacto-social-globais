@@ -59,9 +59,25 @@ git clone https://github.com/Santosteveialima/analise-impacto-social-globais.git
 
 2. Acesse a pasta do projeto:
 ```bash
-cd analise-impacto-social-globais
+cd analise-impacto-social-globai
 
 3.instale as dependências:
 ```bash
 pip install -r requirements.txt
+
 4.Execute os notebooks na pasta notebooks ou scripts em src/
+
+##Fonte de Dados
+-IBGE
+-DATASUS
+-INEP
+-OUTROS BANCOS PÚblicos ACESSIVEIS
+
+##AUTORA
+Estevia Santos lima
+Estudante de Engenharia de Software , Gestão Financeira e investigação Forense. Apaixonada por dados , impacto social e inovação
+## licença
+este projeto está licenciado sob a licença MIT
+você pode usar, modificar e distribuir à vontade. compartilhar é multiplicar.
+
+
